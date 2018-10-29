@@ -1,3 +1,12 @@
+# Install Quantum Development Kit for Visual Studio 2017
+
+Please read this to install Quantum Dev Kit for Visual Studio 2017
+https://docs.microsoft.com/de-de/quantum/install-guide/vs-2017?view=qsharp-preview
+
+# Your first Q# Sample
+Create your own Quantum Sample
+Goto https://docs.microsoft.com/de-de/quantum/?view=qsharp-preview
+
 # Microsoft Quantum Development Kit Samples and Libraries #
 
 Welcome to the Microsoft Quantum Development Kit!
